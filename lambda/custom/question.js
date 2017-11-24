@@ -9,7 +9,7 @@ module.exports = {
         {
             'Reindeer have very thick coats, how many hairs per square inch do they have?': [
                 '13,000',
-                '1,200',
+                '13,000',
                 '5,000',
                 '700',
                 '1,000',
